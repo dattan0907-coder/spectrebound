@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spectrebound:block/spectrebound_plushie"
+    },
+    "facing=east": {
+      "model": "spectrebound:block/spectrebound_plushie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spectrebound:block/spectrebound_plushie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spectrebound:block/spectrebound_plushie",
+      "y": 270
+    }
+  }
+}

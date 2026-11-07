@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="spectrebound"
+version="1.1.0"
+displayName="SpectreBound Armor 3D"
+description='''Bo giap 3D SpectreBound (mu, giap nguc, quan, giay), dao va plushie.'''
+
+[[dependencies.spectrebound]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spectrebound]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

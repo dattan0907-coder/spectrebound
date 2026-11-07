@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "spectrebound:spectrebound/items/spectrebound_boots"
+  }
+}
